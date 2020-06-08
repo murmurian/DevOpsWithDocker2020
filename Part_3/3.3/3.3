@@ -1,0 +1,4 @@
+The bash script takes 3 arguments; link to github repository, Docker Hub username, and name for the Docker Hub image.
+
+After building the image, run container with:
+docker run -v /var/run/docker.sock:/var/run/docker.sock -it <image_name>
