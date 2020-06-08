@@ -1,0 +1,1 @@
+I removed 'API_URL=http://localhost:8000' from frontend Dockerfile and 'FRONT_URL=http://localhost:5000' from backend Dockerfile.
