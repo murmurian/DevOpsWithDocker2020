@@ -1,0 +1,3 @@
+https://hub.docker.com/r/murmurian/java-with-maven
+
+Image has default Java Runtime Enviroment, default Java Development Kit and Maven for build management installed. I also added Nano so programs can be written inside the container. Run with 'docker run -it murmurian/java-with-maven'

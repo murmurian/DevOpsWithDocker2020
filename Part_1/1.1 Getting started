@@ -1,0 +1,7 @@
+Script started on 2020-05-10 19:52:08+0300
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+6c9da676433a        nginx               "nginx -g 'daemon of…"   10 minutes ago      Exited (0) 9 minutes ago                       trusting_bouman
+6b66e18e254f        nginx               "nginx -g 'daemon of…"   10 minutes ago      Exited (0) 9 minutes ago                       thirsty_mcnulty
+a22cc7cf339f        nginx               "nginx -g 'daemon of…"   10 minutes ago      Up 10 minutes              80/tcp              elastic_volhard
+
+Script done on 2020-05-10 19:52:08+0300
